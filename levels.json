@@ -112,11 +112,59 @@
       "toggleWalls": [],
       "keys": [],
       "boardSize": 5
+    },
+    {
+      "id": 4,
+      "name": "Level 4",
+      "difficulty": 2,
+      "player": {
+        "x": 5,
+        "y": 5
+      },
+      "boxes": [
+        {
+          "x": 2,
+          "y": 4
+        },
+        {
+          "x": 4,
+          "y": 4
+        }
+      ],
+      "targets": [
+        {
+          "x": 3,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 3
+        }
+      ],
+      "walls": [],
+      "thorns": [
+        {
+          "x": 0,
+          "y": 2
+        },
+        {
+          "x": 3,
+          "y": 2
+        }
+      ],
+      "voids": [],
+      "teleports": [],
+      "buttons": [],
+      "doors": [],
+      "iceWalls": [],
+      "toggleWalls": [],
+      "keys": [],
+      "boardSize": 6
     }
   ],
   "metadata": {
-    "totalLevels": 3,
-    "generatedAt": "2025-08-30T19:19:00.991Z",
+    "totalLevels": 4,
+    "generatedAt": "2025-08-30T21:39:31.000Z",
     "version": "1.0"
   }
 }
