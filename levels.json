@@ -76,11 +76,47 @@
           "content": "Agora duas caixas"
         }
       ]
+    },
+    {
+      "id": 3,
+      "name": "Level 3",
+      "difficulty": 2,
+      "player": {
+        "x": 2,
+        "y": 1
+      },
+      "boxes": [
+        {
+          "x": 3,
+          "y": 3
+        }
+      ],
+      "targets": [
+        {
+          "x": 0,
+          "y": 4
+        }
+      ],
+      "walls": [],
+      "thorns": [
+        {
+          "x": 1,
+          "y": 3
+        }
+      ],
+      "voids": [],
+      "teleports": [],
+      "buttons": [],
+      "doors": [],
+      "iceWalls": [],
+      "toggleWalls": [],
+      "keys": [],
+      "boardSize": 5
     }
   ],
   "metadata": {
-    "totalLevels": 2,
-    "generatedAt": "2025-08-30T17:47:23.335Z",
+    "totalLevels": 3,
+    "generatedAt": "2025-08-30T19:19:00.991Z",
     "version": "1.0"
   }
 }
